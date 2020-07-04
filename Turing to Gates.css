@@ -1,0 +1,35 @@
+*{
+    font-weight: bold;
+}
+
+body{
+    width: 40%;
+    text-align: center;
+    padding-left: 500px;
+}
+
+header{
+    border: 2px solid black;
+    background-color: #C1C1C1;
+}
+
+img{
+    width: 100%;
+}
+
+#input2{
+    width: 10%;
+    border-radius: 10;
+}
+
+#div_body{
+    border: 2px solid black;
+    height: 450px;
+    padding: 5%
+}
+
+footer{
+    background-color: #C1C1C1;
+    height: 30px;
+    border: 2px solid black;
+}
